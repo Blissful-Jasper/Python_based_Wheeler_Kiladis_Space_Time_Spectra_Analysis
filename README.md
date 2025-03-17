@@ -4,11 +4,11 @@ A Python code for the construction of the Wheeler-Kiladis Space-Time Spectra.
 
 This code is based on the functions provided in the following GitHub repositories:
 
-- [wavenumber_frequency_functions.py](https://github.com/Blissful-Jasper/wavenumber_frequency/blob/master/wavenumber_frequency_functions.py)
+- [Created by: brianpm ; wavenumber_frequency_functions.py](https://github.com/Blissful-Jasper/wavenumber_frequency/blob/master/wavenumber_frequency_functions.py)
 
-- [wk_analysis.py](https://github.com/Blissful-Jasper/wk_spectra/blob/master/wk_spectra/wk_analysis.py)
+- [Created by: Alejandro Jaramillo; wk_analysis.py](https://github.com/Blissful-Jasper/wk_spectra/blob/master/wk_spectra/wk_analysis.py)
 
-- [spectrum.py](https://github.com/Blissful-Jasper/mcclimate/blob/master/spectrum.py)
+- [Created by: tmiyachi ; spectrum.py](https://github.com/Blissful-Jasper/mcclimate/blob/master/spectrum.py)
 
 
 
