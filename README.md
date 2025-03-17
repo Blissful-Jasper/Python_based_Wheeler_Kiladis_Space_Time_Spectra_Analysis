@@ -26,4 +26,6 @@ This code is based on the functions provided in the following GitHub repositorie
 ![image](https://github.com/user-attachments/assets/690df297-d140-460d-8ce8-bca411bb10d7)
 
 ## same data from ncl outpuy
+- https://www.ncl.ucar.edu/Document/Functions/Diagnostics/wkSpaceTime.shtml
+  
 ![image](https://github.com/user-attachments/assets/e2118483-efd7-4033-b3f8-58440476a6e5)
