@@ -1,6 +1,6 @@
 # Wheeler-Kiladis Space-Time Spectra Analysis
 
-This Python code is designed for constructing the Wheeler-Kiladis Space-Time Spectra (WK spectra) from gridded time series data, focusing on the analysis of tropical wave fluctuations. It is based on various functions found in the following GitHub repositories:
+This Python code is designed for constructing the Wheeler-Kiladis Space-Time Spectra (WK spectra) from gridded time series data, focusing on the analysis of tropical waves. It is based on various functions found in the following GitHub repositories:
 
 This code is based on the functions provided in the following GitHub repositories:
 
